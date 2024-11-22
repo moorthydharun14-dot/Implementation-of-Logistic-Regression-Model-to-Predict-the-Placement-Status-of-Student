@@ -86,11 +86,12 @@ ACCURACY SCORE
 
 ![image](https://github.com/user-attachments/assets/0e91c61e-abcb-400f-a04f-c36ec2885d1c)
 
-CLASSIFICATION REPORT
+CONFUSION MATRIX
 
-![image](https://github.com/user-attachments/assets/ae7876ef-a1f6-4e7b-90e3-320aab671526)
+![image](https://github.com/user-attachments/assets/58ce1bb2-1678-4407-9b13-cf33fabb3cc9)
 
-PREDICTION
+
+CLASSIFICATION REPORT & PREDICTION
 
 ![image](https://github.com/user-attachments/assets/f1591a15-9289-4a4e-a284-20d5b58298b3)
 
